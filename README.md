@@ -4,7 +4,7 @@
 
 Löse Sudokus in verschiedenen Schwierigkeitsgraden, verdiene Coins und Samen und baue dir nach und nach deinen eigenen kleinen Rückzugsort auf.
 
-![Cozy Sudoku Garden](screenshots/square.jpg)
+![Cozy Sudoku Garden](screenshots/square.png)
 
 ## ✨ Features
 
@@ -27,19 +27,19 @@ Löse Sudokus in verschiedenen Schwierigkeitsgraden, verdiene Coins und Samen un
 
 ### Sudoku & Workshop
 
-![Sudoku](screenshots/sudoku.jpg)
+![Sudoku](screenshots/sudoku.png)
 
 ### Garten
 
-![Greenhouse](screenshots/greenhouse.jpg)
+![Greenhouse](screenshots/garden.png)
 
 ### Cottage
 
-![Cottage](screenshots/cottage.jpg)
+![Cottage](screenshots/cottage.png)
 
 ### Fortschritt & Sammlung
 
-![Journal](screenshots/journal.jpg)
+![Journal](screenshots/journal.png)
 
 ## 🌍 Sprachen
 
