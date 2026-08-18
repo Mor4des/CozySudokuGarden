@@ -58,7 +58,7 @@ Das Spiel benötigt keine Internetverbindung.
 
 Cozy Sudoku Garden kann kostenlos auf itch.io heruntergeladen werden:
 
-**[Cozy Sudoku Garden auf itch.io](https://morades.itch.io/cozy-sudoku-garden)**![Uploading 1.png…]()
+**[Cozy Sudoku Garden auf itch.io](https://morades.itch.io/cozy-sudoku-garden)**
 
 
 Das Spiel ist kostenlos verfügbar.
