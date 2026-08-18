@@ -61,7 +61,7 @@ Cozy Sudoku Garden kann kostenlos auf itch.io heruntergeladen werden:
 **[Cozy Sudoku Garden auf itch.io](https://morades.itch.io/cozy-sudoku-garden)**![Uploading 1.png…]()
 
 
-Das Spiel ist kostenlos verfügbar. Freiwillige Unterstützung über itch.io ist möglich.
+Das Spiel ist kostenlos verfügbar.
 
 ## 🛠️ Entwicklung
 
@@ -76,7 +76,3 @@ Dieses Repository dient als öffentliche Projektseite für **Cozy Sudoku Garden*
 Der vollständige Unity-Quellcode und die internen Projektdateien sind **nicht Bestandteil dieses öffentlichen Repositories**.
 
 Aktuelle spielbare Versionen werden über itch.io veröffentlicht.
-
-## 💚 Cozy Sudoku Garden
-
-Löse ein Sudoku, pflanze ein paar Samen, brühe dir einen Tee und gestalte deinen eigenen gemütlichen Garten.
